@@ -30,7 +30,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Overview
 
-The VueStacks chat MEVN demo utilizes Vue-Router, Axios HTTP client, and Express server to post messages in a chatroom. 
+The VueStacks chat MEVN demo utilizes Vue-Router, Axios HTTP client, Express server, and Mongoose.js to post messages in a chatroom. 
 
 See chat component in ```components/Chat.vue```
 
