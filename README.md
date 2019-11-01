@@ -28,6 +28,8 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+![alt text](https://raw.githubusercontent.com/jsfanatik/jsfanatik.github.io/master/assets/vuestacks-chat.JPG)
+
 ### Overview
 
 The VueStacks chat MEVN demo utilizes Vue-Router, Axios HTTP client, Express server, and Mongoose.js to post messages in a chatroom. 
